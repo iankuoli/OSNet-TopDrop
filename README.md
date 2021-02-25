@@ -4,7 +4,7 @@ OSNet + Top-DB-Net
 This repository integrates **OSNet** (ICCV 2019) and **Top-DB-Net** (ICPR 2020).
 The code is inspired by [KaiyangZhou/deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 
-<img src="osnet_ain_structure.png" height="300" />  <img src="architecture.png" height="300" />
+<img src="osnet_ain_structure.png" height="250" />  <img src="architecture.png" height="250" />
 
 ## Installation
 
