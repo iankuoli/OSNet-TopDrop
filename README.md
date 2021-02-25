@@ -1,13 +1,7 @@
-[![https://arxiv.org/abs/2010.05435](https://img.shields.io/badge/arXiv-2010.05435-blue)](https://arxiv.org/abs/2010.05435)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/top-db-net-top-dropblock-for-activation/person-re-identification-on-cuhk03-detected)](https://paperswithcode.com/sota/person-re-identification-on-cuhk03-detected?p=top-db-net-top-dropblock-for-activation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/top-db-net-top-dropblock-for-activation/person-re-identification-on-cuhk03-labeled)](https://paperswithcode.com/sota/person-re-identification-on-cuhk03-labeled?p=top-db-net-top-dropblock-for-activation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/top-db-net-top-dropblock-for-activation/person-re-identification-on-dukemtmc-reid)](https://paperswithcode.com/sota/person-re-identification-on-dukemtmc-reid?p=top-db-net-top-dropblock-for-activation)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/top-db-net-top-dropblock-for-activation/person-re-identification-on-market-1501)](https://paperswithcode.com/sota/person-re-identification-on-market-1501?p=top-db-net-top-dropblock-for-activation)
-
-Top-DB-Net: Top DropBlock for Activation Enhancement in Person Re-Identification
+OSNet + Top-DB-Net
 ===========
 
-This repository implements 'Top-DB-Net: Top DropBlock for Activation Enhancement in Person Re-Identification' presented at International Conference in Pattern Recognition (ICPR 2020)
+This repository integrates 'OSNet (ICCV 2019)' and 'Top-DB-Net (ICPR 2020)'
 
 ![](architecture.png)
 
