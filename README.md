@@ -1,7 +1,8 @@
 OSNet + Top-DB-Net
 ===========
 
-This repository integrates 'OSNet (ICCV 2019)' and 'Top-DB-Net (ICPR 2020)'
+This repository integrates **OSNet** (ICCV 2019) and **Top-DB-Net** (ICPR 2020).
+The code is inspired by [KaiyangZhou/deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 
 ![](architecture.png)
 
@@ -67,15 +68,25 @@ Results
 
 | Dataset       | mAP  | Rank-1 | mAP (RK)| Rank-1 (RK)  | 
 | ------------- |:----:|:------:|:-------:|:------------:|
-| Market1501    | 85.8 | 94.9   | 94.1    | 95.5         |
-| DukeMTMC-ReID | 73.5 | 87.5   | 88.6    | 90.9         |
-| CUHK03(L)     | 75.4 | 79.4   | 88.5    | 86.7         |
-| CUHK03(D)     | 74.2 | 77.3   | 86.9    | 85.7         |
+| Market1501    | 88.1 | 94.9   | 94.3    | 95.4         |
+| DukeMTMC-ReID | 78.0 | 89.3   | 89.3    | 91.2         |
+| CUHK03        | 82.4 | 85.4   | 91.2    | 89.9         |
+| PRID.         | 79.4 | 70.0   | 58.3    | 41.0         |
 
 
 Citation
 ---------
-If you find this work useful to your research, please cite the following publication.
+If you find this work useful to your research, please cite the two following publications.
+
+```
+@inproceedings{zhou2019omni,
+  title={Omni-scale feature learning for person re-identification},
+  author={Zhou, Kaiyang and Yang, Yongxin and Cavallaro, Andrea and Xiang, Tao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3702--3712},
+  year={2019}
+}
+```
 
 ```
 @article{quispe2020topdnet,
